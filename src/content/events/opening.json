@@ -1,0 +1,14 @@
+{
+  "id": "opening",
+  "title": "Opening",
+  "description": "",
+  "startTime": "9:30",
+  "endTime": "10:00",
+  "speakerIds": [
+    "bharat-n-anand"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/opening",
+  "editionYears": [
+    2023
+  ]
+}

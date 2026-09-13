@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "sourceUrl": "https://cdn.prod.website-files.com/63def260d2a0eb3208e56882/694ae0c19636cc9d740afd9a_logo-black.png",
+      "asset": "https://cdn.prod.website-files.com/63def260d2a0eb3208e56882/694ae0c19636cc9d740afd9a_logo-black.png"
+    },
+    {
+      "sourceUrl": "https://cdn.prod.website-files.com/63def260d2a0eb3208e56882/6948f10d31feb3321c03d7b8_logo.png",
+      "asset": "https://cdn.prod.website-files.com/63def260d2a0eb3208e56882/6948f10d31feb3321c03d7b8_logo.png"
+    }
+  ],
+  "externalCollections": [
+    {
+      "type": "photos",
+      "sourceUrl": "https://www.dropbox.com/scl/fo/5cigl63ovnl1jge5u6lpp/AFh-dMw8lfGSFvNyfjsySL8?rlkey=m4lx93k8g5sm393tv5t293d8y&st=mselb6e1&dl=0",
+      "status": "source-deleted",
+      "checkedAt": "2026-09-05"
+    },
+    {
+      "type": "video-recordings",
+      "sourceUrl": "https://youtube.com/playlist?list=PLBlfE2YKQnrhoQFCvviV7ACbKLeFFiItd&feature=shared",
+      "status": "linked",
+      "archivePath": "archive/external-media/youtube-2025"
+    }
+  ],
+  "sourcePath": "/media-kit",
+  "videos": [
+    {
+      "id": "SqW9aam8A3Y",
+      "title": "Opening | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=SqW9aam8A3Y",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "B-h9SboIuxE",
+      "title": "Private video",
+      "sourceUrl": "https://www.youtube.com/watch?v=B-h9SboIuxE",
+      "status": "private",
+      "archivePath": ""
+    },
+    {
+      "id": "GSvjK7h2eN8",
+      "title": "Bilawal Sidhu | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=GSvjK7h2eN8",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "9ozmGsu9g3o",
+      "title": "Manuel Sainsily | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=9ozmGsu9g3o",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "_PsCfdYGUGs",
+      "title": "Showcase - Startup Pitches | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=_PsCfdYGUGs",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "xQWr-JtFVD0",
+      "title": "Showcase - Creative Tech Projects | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=xQWr-JtFVD0",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "TVIDccobEhg",
+      "title": "Walter Greenleaf | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=TVIDccobEhg",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "r_2YHq1qwAM",
+      "title": "Tristan Elizabeth Gribbin | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=r_2YHq1qwAM",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "snNyQxg8xS8",
+      "title": "Panel - XR in Healthcare & Wellbeing | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=snNyQxg8xS8",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "Ay7z8kf8LUU",
+      "title": "Ori Inbar | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=Ay7z8kf8LUU",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "SwU4EktFfSs",
+      "title": "Fireside Chat - XR in Education | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=SwU4EktFfSs",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "lwYpw37Qg30",
+      "title": "Panel - Entertainment Redefined: XR in Film, VFX & Media | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=lwYpw37Qg30",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "sPuSEyFL2LM",
+      "title": "Tom Emrich | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=sPuSEyFL2LM",
+      "status": "linked",
+      "archivePath": ""
+    },
+    {
+      "id": "tlxx7cjmy8g",
+      "title": "Closing | HarvardXR 2025",
+      "sourceUrl": "https://www.youtube.com/watch?v=tlxx7cjmy8g",
+      "status": "linked",
+      "archivePath": ""
+    }
+  ]
+}

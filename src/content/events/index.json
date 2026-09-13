@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "2026-end-note",
+    "title": "Closing Note: 10 Years, 10 Lessons",
+    "description": "Over the last decade, XR has been shaped by major hardware shifts, hype cycles, and fast-changing client expectations. In this , , CEO and Studio Head of —an award-winning immersive design studio in New York focused on VR, AR, and real-time technology—shares what it takes to serving clients across , and beyond. Drawing on , he covers both standout wins and the learned the hard way. With a background in , and experience from clients such as to the , Alex is a , , and a regular speaker at events including . alike will get candid takeaways on —and . closing keynote Alex Coulombe Agile Lens build and sustain an XR studio B2B architecture, live entertainment Agile Lens case studies business, technical, and creative lessons architecture, theatre, and emerging technology Royal Caribbean Royal Shakespeare Company Gold Unreal Engine Authorized Instructor Chapter Lead of Unreal NYC SIGGRAPH, AWE, SXSW, FMX, and Unreal Fest Designers, developers, and founders what he wishes he had known sooner how to move into XR practice today",
+    "startTime": "17:10",
+    "endTime": "17:40",
+    "speakerIds": [
+      "alex-coulombe"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/2026-end-note",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "ai-spatial-computing-agents",
+    "title": "XR + AI Agents and the Next Interface",
+    "description": "This session explores the emergence of AI agents as a new interface paradigm. Moving beyond traditional systems, these agents are increasingly autonomous and context-aware, capable of interpreting intent and collaborating with users. The discussion focuses on how interaction is shifting toward adaptive, language-driven systems. It also considers implications for design, usability, and trust. The session highlights how AI agents are redefining everyday tools and enabling more intuitive digital experiences.",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "speakerIds": [
+      "nils-pihl",
+      "terry-r-schussler"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/ai-spatial-computing-agents",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "award-ceremony-closing",
+    "title": "Award Ceremony + Closing",
+    "description": "We close by celebrating the winners, thanking our community of creators and partners, and sending everyone off inspired to keep building . HXR 2026 Showcase & Competition from pixel to voxel",
+    "startTime": "17:40",
+    "endTime": "18:00",
+    "speakerIds": [
+      "ash-he",
+      "jiaying-li"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/award-ceremony-closing",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "axonpark-workshop",
+    "title": "AxonPark Workshop",
+    "description": "",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/axonpark-workshop",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "bezi-workshop",
+    "title": "Bezi Workshop",
+    "description": "Experience an immersive workshop led by Julian Park, the co-founder and CEO of Bezi, as he delves into the world of designing and prototyping for spatial computing. Julian will debunk the complexities and demonstrate how approachable spatial design can be by providing attendees with real-world examples and hands-on experience. From understanding spatial interfaces to mastering prototyping techniques, this session promises to equip participants with the skills needed to excel in future professional roles. Don't miss this unique opportunity to learn from an industry expert and participate in an interactive Q&A session.",
+    "startTime": "14:20",
+    "endTime": "15:20",
+    "speakerIds": [
+      "julian-park"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/bezi-workshop",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "break",
+    "title": "Break",
+    "description": "",
+    "startTime": "15:00",
+    "endTime": "15:15",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/break",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "break-2",
+    "title": "Break",
+    "description": "Break and Showcase",
+    "startTime": "16:45",
+    "endTime": "17:00",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/break-2",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "building-the-metaverse",
+    "title": "Building the Metaverse",
+    "description": "Join our panel of experts in the exciting realm of building the metaverse! Our panelists, comprising of technologists, futurists, and visionaries, will delve into the latest trends, challenges, and opportunities in the rapidly evolving landscape of the metaverse. From XR experiences, to blockchain, Web3, and social interactions in the virtual world, our panelists will share their insights, strategies, and visions for the future of the metaverse.",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "speakerIds": [
+      "alistair-hume",
+      "michael-levine",
+      "yun-fan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/building-the-metaverse",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "checkin",
+    "title": "Checkin",
+    "description": "",
+    "startTime": "9:00",
+    "endTime": "9:30",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/checkin",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "closing-note",
+    "title": "Closing Note - \"Tribrid Learning\"",
+    "description": "Tribrid Learning: Revolutionizing Education through Immersive Technologies and the Metaverse",
+    "startTime": "18:00",
+    "endTime": "18:30",
+    "speakerIds": [
+      "monica-ares"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/closing-note",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "closing-note-2025",
+    "title": "Closing Note",
+    "description": "Join Tom Emrich, AR pioneer and author of The Next Dimension, for a closing keynote on how spatial computing is transforming business. Drawing from real-world examples, Emrich will explore how augmented reality is redefining customer engagement, marketing, and sales. He'll discuss the convergence of XR, AI, and immersive technologies, offering insights into how businesses can leverage these tools to create deeper connections and drive innovation. This session will provide a forward-looking perspective on the future of immersive technology and its role in shaping the next era of human interaction.",
+    "startTime": "17:20",
+    "endTime": "17:50",
+    "speakerIds": [
+      "tom-emrich"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/closing-note-2025",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "creating-worlds-with-genai-and-developing-for-mr-on-horizon",
+    "title": "Creating Worlds with GenAI and Developing for MR on Horizon",
+    "description": "In this hands-on workshop, Yiqi and Jordan introduce Meta Horizon Worlds' generative AI tools—Code Gen, Audio Gen, and 3D Gen—demonstrating how these tools streamline the creation of 3D assets, NPCs, and audio elements to enhance virtual experiences. Following this, Dilmer provides a crash course on developing mixed reality applications using Meta's Building Blocks, a Unity extension that facilitates rapid prototyping by allowing developers to integrate features like Passthrough, Hand Tracking, and Multiplayer functionalities into their projects. Attendees will gain practical insights into setting up projects, integrating key features, and utilizing tools like the Meta XR Simulator and Immersive Debugger for efficient development cycles.",
+    "startTime": "14:40",
+    "endTime": "15:40",
+    "speakerIds": [
+      "dilmer-valecillos",
+      "jordan-thiel",
+      "yiqi-zhao"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/creating-worlds-with-genai-and-developing-for-mr-on-horizon",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "creative-platforms",
+    "title": "Creative Platforms",
+    "description": "Delve into the realm of \"Creative Platforms\" with visionary speakers Martin Sawtell and Julian Park. Martin Sawtell, XR Lead at Dell Technologies, is a pioneer in the XR domain, bridging the gap between virtual and physical worlds through innovative use cases and technology platforms. His journey includes groundbreaking contributions from co-founding a VR med-tech startup to leveraging his vast experience in visual effects on major films, such as \"Star Wars\" and \"Ready Player One,\" highlighting his commitment to innovation and the exploration of the Metaverse and GenAI tools. Joining him is Julian Park, CEO of Bezi, revolutionizing spatial design collaboration. With a background in software engineering at Oculus, Julian's expertise drives Bezi's mission to empower design teams worldwide. Together, they illuminate the transformative power of creative platforms in shaping the future of design and interaction. Moderated by Cole Leng.",
+    "startTime": "13:10",
+    "endTime": "14:10",
+    "speakerIds": [
+      "martin-sawtell",
+      "julian-park",
+      "yanpeng-cole-leng"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/creative-platforms",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "demo-showcase-2025",
+    "title": "Demo Showcase",
+    "description": "Step into the heart of HarvardXR 2025 at our Demo Room and Immersive Showcase. Here, you'll experience firsthand the latest in XR innovation, from cutting-edge hardware to groundbreaking applications. Engage with our sponsors, including industry leaders like Meta, Pico, and explore student-led projects that exemplify the theme \"Augmented Self.\" This interactive space offers a unique opportunity to connect with creators, test new technologies, and envision the future of immersive experiences.",
+    "startTime": "11:00",
+    "endTime": "17:00",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/demo-showcase-2025",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "demo-showcase-2026",
+    "title": "Demo Showcase",
+    "description": "The HXR Demo Session is a hands-on, walk-through part of the conference where projects come off the slide deck and into the room. Instead of only hearing about spatial computing, you can try prototypes, watch short live walkthroughs, and talk directly with the people who built the work. The session brings together experimental installations, research rigs, creative XR pieces, and applied tools—reflecting the same interdisciplinary mix as the Showcase, from pixel-based interfaces to voxel-scale worlds and embodied interaction. Whether you care about new storytelling formats, design workflows, AI-augmented experiences, or product-ready systems, this is the block to compare approaches, give feedback, and spark collaborations. Come curious, leave with a clearer sense of what is possible today—and what is worth building next.",
+    "startTime": "11:00",
+    "endTime": "17:00",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/demo-showcase-2026",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "design-and-technology",
+    "title": "Design and Technology",
+    "description": "The Design and Technology Panel focuses on the latest trends and innovations in XR design and technology. The panelists will explore the creative and technical challenges of designing immersive experiences and examine the potential of XR technology to influence communities and cities.",
+    "startTime": "15:15",
+    "endTime": "16:45",
+    "speakerIds": [
+      "talis-reks",
+      "amber-hu",
+      "jeff-grantz",
+      "jiajian-min"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/design-and-technology",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "embodied-xr-hardware-innovation",
+    "title": "Embodied XR & Hardware Innovation",
+    "description": "Join Waleed Zafar, Mission Critical Director at XYZ Reality, and William Cannady, Technical Product Manager at NVIDIA, for an in-depth session on cutting-edge XR hardware innovations. Zafar will present “The XYZ Vision: Builders Building from Holograms.” Cannady will delve into NVIDIA’s role in delivering scalable, high-fidelity immersive experiences across industries. Together, they will explore how these technologies are revolutionizing the XR landscape, bridging the gap between digital models and physical execution.",
+    "startTime": "14:40",
+    "endTime": "15:40",
+    "speakerIds": [
+      "waleed-zafar",
+      "william-cannady"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/embodied-xr-hardware-innovation",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "entertainment-redefined-xr-in-film-vfx-media",
+    "title": "Entertainment Redefined: XR in Film, VFX & Media",
+    "description": "Join Shelley Petersen and Ian Dawson for a compelling session exploring how XR is revolutionizing film, VFX, and media. Shelley Petersen, a leader in immersive technology, will discuss XR's role in virtual production and storytelling. Ian Dawson, known for supervising and producing the futuristic AR Jarvis sequences in Iron Man and Iron Man 2, will share insights into XR's impact on visual effects and media design. Together, they will examine how XR is reshaping content creation, from pre-production to post-production, and its implications for the future of entertainment.",
+    "startTime": "16:10",
+    "endTime": "17:10",
+    "speakerIds": [
+      "shelley-petersen",
+      "ian-dawson"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/entertainment-redefined-xr-in-film-vfx-media",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "entrepreneurship-and-innovation",
+    "title": "Entrepreneurship and Innovation",
+    "description": "Experience a groundbreaking session on \"Entrepreneurship & Innovation\" at HarvardXR, where we delve into the revolutionary impact of extended reality (XR) technologies on healthcare. This session features Eran Orr, CEO of XRHealth, and Mark Zhang, President of AMXRA, who will share their pioneering work in immersive therapeutic platforms and medical extended reality, reshaping the way we approach mental, physical, and cognitive health. Featured Talks \"XRHealth: Immersive Therapeutic Platform\" by Eran Orr Discover how XRHealth is leading the charge in healthcare innovation, utilizing VR, AR, and MR to offer personalized therapeutic interventions. Orr's insights into enhancing patient experiences promise a deeper look into the future of telehealth and therapeutic technologies. \"Medical Extended Reality - An Emerging 21st Century Specialty\" by Mark Zhang Mark Zhang explores the burgeoning field of medical extended reality, highlighting its potential to transform healthcare delivery, patient engagement, and treatment outcomes. Learn about the latest advancements and the visionary leadership driving this specialty forward. Moderated by Allison Oh.",
+    "startTime": "15:50",
+    "endTime": "16:50",
+    "speakerIds": [
+      "eran-orr",
+      "mark-zhang",
+      "allison-oh"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/entrepreneurship-and-innovation",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "entrepreneurship-and-investment",
+    "title": "Entrepreneurship and Investment",
+    "description": "The Entrepreneurship and Investment Panel would explore the emerging landscape of extended reality (XR) startups and investment opportunities. The panelists would discuss the challenges and opportunities of creating a successful XR business, and how XR can meaningfully impact climate-positive and social-forward initiatives and enterprises.",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "speakerIds": [
+      "amy-peck",
+      "rika-nakazawa",
+      "chun-xia",
+      "jiajian-min"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/entrepreneurship-and-investment",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "ethics-of-xr-and-ai",
+    "title": "Ethics of XR and AI",
+    "description": "In the rapidly evolving landscapes of Extended Reality (XR) and Artificial Intelligence (AI), ethical considerations take center stage. This crucial session dives into the moral complexities and responsibilities inherent in developing and deploying XR and AI technologies. Featuring Terry Chen's talk on building an AI startup with a human approach and a fireside chat between Dan McConnell and Trista Pierce, we explore the delicate balance between innovation and ethical standards. From the gaming industry's challenges to the broader implications for society, our speakers share insights on navigating ethical dilemmas with integrity, emphasizing a human-centric approach in technology. Join us to understand the foundational importance of ethics in shaping the future of XR and AI. Moderated by Casey Armstrong.",
+    "startTime": "13:10",
+    "endTime": "14:10",
+    "speakerIds": [
+      "terry-chen",
+      "dan-mcconnell",
+      "trista-pierce",
+      "casey-armstrong"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/ethics-of-xr-and-ai",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "fireside-chat-i",
+    "title": "Fireside Chat I - \"Navigating Metaverse and XR 2023\"",
+    "description": "",
+    "startTime": "11:00",
+    "endTime": "11:30",
+    "speakerIds": [
+      "vishal-punwani",
+      "yun-fan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/fireside-chat-i",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "fireside-chat-ii",
+    "title": "Fireside Chat II - \"Investment in Metaverse\"",
+    "description": "",
+    "startTime": "12:00",
+    "endTime": "12:30",
+    "speakerIds": [
+      "phil-chen",
+      "kachina-studer"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/fireside-chat-ii",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "future-of-work",
+    "title": "Future of Work",
+    "description": "Future of work panel will discuss the future of work in virtual reality and its potential to revolutionize the workplace. The panelists will share how to use XR tools to prototype for human-centered creativity, foster imagination, build empathy, and create connection.",
+    "startTime": "17:00",
+    "endTime": "18:00",
+    "speakerIds": [
+      "jenna-fizel",
+      "tiange-wang",
+      "ellen-flaherty",
+      "jenny-jiang"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/future-of-work",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "future-prototypes",
+    "title": "Future Prototypes",
+    "description": "Explore the cutting-edge realm of \"Future Prototypes\" with industry titans Mike Pell and Valentin Heun. Mike Pell, Director of Microsoft Garage NYC, epitomizes innovation and disruption. Renowned for his prowess in design, innovation, and data AI, Pell reshapes strategies for global giants, drawing from his entrepreneurial journey to corporate leadership. Joining him is Valentin Heun, VP of Innovation Engineering at PTC, spearheading the PTC Reality Lab. Heun's groundbreaking work in computer interaction transcends boundaries, earning accolades globally. With a Ph.D. from MIT Media Lab and a design background from Bauhaus-University Weimar, Heun's expertise promises an illuminating exploration of future possibilities in the physical space. Moderated by Jason Jia.",
+    "startTime": "11:10",
+    "endTime": "12:10",
+    "speakerIds": [
+      "mike-pell",
+      "valentin-heun",
+      "jason-jia"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/future-prototypes",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "harvardxr-2024-closing-ceremony",
+    "title": "HarvardXR 2024 Closing Ceremony",
+    "description": "A special raffle event with Looking Glass Factory. Closing note, all-staff photography and social activities to wrap up HarvardXR 2024.",
+    "startTime": "17:30",
+    "endTime": "17:45",
+    "speakerIds": [
+      "nix-liu-xin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/harvardxr-2024-closing-ceremony",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "harvardxr-2024-closing-speech",
+    "title": "Closing Speech",
+    "description": "As we conclude the HarvardXR conference, join us for an inspiring closing note by Tsitsi Kolawole, Product Design Director at Roblox. Tsitsi will share her profound insights on \"Designing in XR × AI,\" unveiling the foundational principles essential for creating immersive XR experiences that are not only engaging and comfortable but also ethically sound and inclusive. She will highlight the critical role of integrating AI to enhance these experiences through personalized interactions, adaptive interfaces, and ethical AI practices that prioritize user privacy and digital well-being. Drawing from her extensive experience in leading design and research teams at Roblox, as well as her pioneering work on HoloLens, Xbox, and Microsoft Surface, Tsitsi's talk promises to explore the exciting convergence of XR, AI, and spatial computing. Her leadership has consistently pushed the boundaries of hardware and software experiences, setting new standards for immersive co-experience across entertainment, education, and productivity. Tsitsi's closing note will not only encapsulate the spirit of innovation that defines HarvardXR but also inspire attendees to envision and build the future of immersive technologies with a user-centric, ethical approach. Don't miss this opportunity to gain valuable insights from one of the industry's leading voices on the frontier of XR and AI design.",
+    "startTime": "17:00",
+    "endTime": "17:30",
+    "speakerIds": [
+      "tsitsi-kolawole"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/harvardxr-2024-closing-speech",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "harvardxr-2024-opening",
+    "title": "HarvardXR 2024 Opening",
+    "description": "Welcome to HarvardXR 2024 annual conference titled \"Extended Intelligence\" focusing on the convergence of AI and XR. Our goal is to provide a platform for students, researchers, practitioners, and entrepreneurs to discuss how XR is shaping the future across different industries.",
+    "startTime": "10:00",
+    "endTime": "10:15",
+    "speakerIds": [
+      "jenny-jiang"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/harvardxr-2024-opening",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "harvardxr-closing",
+    "title": "HarvardXR Closing",
+    "description": "Conclude your HarvardXR 2025 experience with closing remarks that encapsulate the day's insights and discussions. We'll reflect on the key themes explored, celebrate the contributions of our speakers and participants, and look ahead to the future of XR. Join us in acknowledging the collaborative spirit that drives innovation in the immersive technology community.",
+    "startTime": "17:50",
+    "endTime": "18:00",
+    "speakerIds": [
+      "zihao-zhang",
+      "hongbee-park",
+      "winkie-tian"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/harvardxr-closing",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "healthcare-and-education",
+    "title": "Healthcare and Education",
+    "description": "In recent years, virtual reality (VR) technology has rapidly advanced and is now being implemented in healthcare to improve patient outcomes, enhance medical training, and revolutionize healthcare delivery. The panelists will share the latest trends in the adoption of VR in healthcare and the benefits it can bring to patients, from both a clinical, educational, and academic perspective.",
+    "startTime": "13:30",
+    "endTime": "15:00",
+    "speakerIds": [
+      "mark-zhang",
+      "min-lang",
+      "george-papagiannakis",
+      "jenny-jiang"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/healthcare-and-education",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "immersive-arts-culture-design",
+    "title": "XR + Immersive Arts, Culture & Design",
+    "description": "This session examines how immersive technologies are expanding artistic and cultural expression. Through XR and interactive media, creators are developing new forms of storytelling that engage audiences in embodied ways. The discussion highlights practices that blend physical and digital environments, challenging traditional boundaries of perception. It also considers how immersive design fosters inclusivity and reshapes cultural participation. The session reflects on the evolving role of immersive media in contemporary creative practice.",
+    "startTime": "11:00",
+    "endTime": "0:00",
+    "speakerIds": [
+      "benny-lee",
+      "kailin-zhu"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/immersive-arts-culture-design",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "immersive-learning-workforce-training",
+    "title": "XR In Practice",
+    "description": "This session explores how XR is transforming education through immersive and experiential learning. By enabling interaction with complex subjects in intuitive ways, XR enhances understanding and engagement. The discussion highlights its potential to support accessibility, collaboration, and personalized learning. It also considers challenges in implementation and integration. The session reflects on how immersive tools can reshape pedagogical approaches and create more dynamic learning environments.",
+    "startTime": "15:10",
+    "endTime": "15:40",
+    "speakerIds": [
+      "tina-grotzer"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/immersive-learning-workforce-training",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "immersive-reality",
+    "title": "Immersive Reality",
+    "description": "Embark on a captivating journey into Immersive Reality, where the boundaries between creativity and innovation blur. Stewart Smith, Product Design Director at Unity Technologies, brings a dynamic fusion of software engineering and artistic brilliance. With a prestigious MFA from Yale University, Stewart's groundbreaking work spans from Google Doodles to virtual reality music videos, culminating in Quantum JavaScript, a pioneering tool driving quantum hardware. GMUNK, the visionary digital artist behind iconic works like \"TRON: Legacy\" and the Windows 10 desktop wallpaper, expands our perceptions with his enigmatic, atmospheric style. With a relentless pursuit of new mediums and collaborations, GMUNK's portfolio ranges from fine art to commercial projects for global brands, pushing the boundaries of identity, technology, and human connection. Witness as these trailblazers redefine immersive experiences and inspire the impossible. Moderated by Nix Liu Xin.",
+    "startTime": "14:20",
+    "endTime": "15:20",
+    "speakerIds": [
+      "stewart-smith",
+      "gmunk",
+      "nix-liu-xin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/immersive-reality",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "immersive-storytelling-games-and-design",
+    "title": "Immersive Storytelling: Games and Design",
+    "description": "Explore the future of immersive storytelling with Farshad Nayeri and Ryan Canuel. Nayeri, a pioneer in Data Cinematography and CTO of Pixxa, will discuss transforming complex data into compelling visual narratives using XR technologies. Canuel, CEO of Petricore Inc., will share insights from developing mixed reality games like Mythic Realms, highlighting how immersive design enhances engagement and learning. Together, they will delve into how XR tools empower creators to craft interactive experiences that blend storytelling, design, and technology.​",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "speakerIds": [
+      "farshad-nayeri",
+      "ryan-canuel"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/immersive-storytelling-games-and-design",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "industrial-metaverse",
+    "title": "Industrial Metaverse",
+    "description": "Kevin will delve into how digital twins, immersive simulations, and real-time data are converging to revolutionize sectors like manufacturing, energy, and infrastructure. Amy will explore \"The Convergence\" of XR, AI, and the Internet of Everything (IoE), discussing how these technologies collectively drive innovation and reshape the future of work and industry. Together, they will provide insights into how the Industrial Metaverse is not just a buzzword but a game-changer for the XR industry, enabling unified platforms that integrate multi-modal data seamlessly across companies.",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "speakerIds": [
+      "amy-peck",
+      "kevin-odonovan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/industrial-metaverse",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "journey-after-school",
+    "title": "Journey After School",
+    "description": "Embark on a captivating journey post-academia with our esteemed panelists. Dhairya Dand, Principal Founder of ODD Industries and MIT Media Lab alum, boasts a portfolio of groundbreaking inventions and artistic endeavors, recognized by Forbes, WIRED UK, and Vogue. Joining him is Botao Amber Hu, Director of Reality Design Lab at Stanford and Tsinghua, pioneering speculative design and programmable cryptography. Veronica Peitong Chen, Senior Experience Designer at Adobe, integrates AI/ML into immersive multimedia experiences, while Iris Pan, Amazon Lead Designer, revolutionizes consumer engagement through emerging technologies. Explore their multidisciplinary approaches, shaping the future landscape of design, AI, and technology. Together, these exceptional individuals illuminate the path beyond academia, showcasing the boundless possibilities of creativity and innovation in the real world. Moderated by Yun Fan.",
+    "startTime": "15:50",
+    "endTime": "16:50",
+    "speakerIds": [
+      "dhairya-dand",
+      "botao-amber-hu",
+      "iris-pan",
+      "veronica-peitong-chen",
+      "yun-fan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/journey-after-school",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "keynote",
+    "title": "Keynote - \"From Black Mirrors to Blue Doors\"",
+    "description": "As the pace of technological progress accelerates, there is increasing fear the world is heading towards a dystopian outcome ending in the destruction of the world as we know it. In this keynote, Mr. Graylin will dispel current myths in this realm, provide actionable recommendations and discuss how XR and AI will positively converge in the near future to bring about a more egalitarian and hopeful future for the coming generation.",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "speakerIds": [
+      "alvin-wang-graylin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/keynote",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "keynote-2025",
+    "title": "Keynote",
+    "description": "Join Austin Lee, Head of XR at Samsung Electronics, for a keynote unveiling the company's vision for the future of immersive technology. In \"AI Meets XR,\" Lee will introduce One UI XR, Samsung's new spatial interface designed for the Android XR platform, developed in collaboration with Google and Qualcomm. He will showcase Project Moohan, Samsung's upcoming XR headset powered by the Snapdragon XR2+ Gen 2 chipset, highlighting its integration of multimodal AI to deliver context-aware experiences. This session will provide insights into how Samsung is merging AI, hardware, and software to create seamless, intuitive XR interactions.​",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "speakerIds": [
+      "austin-lee"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/keynote-2025",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "keynote-collective-superintelligence",
+    "title": "Keynote “Collective Superintelligence”",
+    "description": "Collective Superintelligence - Using AI to Make Human Groups Smarter While most AI researchers focus on emulating human intelligence, has taken a very different approach. For the last decade he has been working on Collective Superintelligence, a method of using AI to connect human groups together to enable significantly more accurate predictions, assessments, forecasts, decisions, and evaluations. The technology created by his company, , is based on the biological principle of Swarm Intelligence and has been used to optimize decisions by organizations ranging from the US Air Force and the United Nations to hedge funds and market research firms. Dr. Rosenberg will talk about the science and technology of and the tools his company is developing to bring these capabilities to mainstream applications. Dr. Rosenberg earned his PhD from Stanford University, is a former professor at California State University, and has a book from Hachette, about the future of AI-powered immersive worlds. Dr. Louis Rosenberg Unanimous AI Collective Superintelligence Our Next Reality",
+    "startTime": "10:15",
+    "endTime": "11:00",
+    "speakerIds": [
+      "louis-rosenberg"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/keynote-collective-superintelligence",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "keynote-reality-always-wins",
+    "title": "Keynote: Reality Always Wins",
+    "description": "Drawing on decades in spatial computing—from Disney VR and Google Earth to HoloLens and Apple Vision Pro—Avi unpacks why metaverse hype faded and what AI glasses mean for privacy and trust. He introduces a human-experience (HX) lens for better XR and AI design, argues for ethics and consent over exploitation, and closes with a clear-eyed take on AI as “probability machines”—and why reality, not hype, wins in the end.",
+    "startTime": "10:00",
+    "endTime": "10:50",
+    "speakerIds": [
+      "avi-bar-zeev"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/keynote-reality-always-wins",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "lunch-and-networking",
+    "title": "Lunch and Networking",
+    "description": "$25 Free Lunch on Postmates (Please order in advance!)",
+    "startTime": "12:30",
+    "endTime": "13:30",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/lunch-and-networking",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "make-it-spatial-how-to-succeed-in-xr",
+    "title": "Make it Spatial: How to Succeed in XR",
+    "description": "“Make It Spatial” explores what it takes to succeed in the evolving XR ecosystem beyond hype and rapid growth cycles. As the industry expands while facing periods of correction, the talk reframes XR not as a race for scale, but as an opportunity to build meaningful and sustainable practices. Drawing from market trends, emerging smartglass platforms, and industry shifts, it highlights how uncertainty creates space for new ideas and players. The talk concludes with ten practical principles for thinking spatially — helping designers and creators move beyond screens and design experiences grounded in real-world context.",
+    "startTime": "13:30",
+    "endTime": "14:00",
+    "speakerIds": [
+      "ori-inbar"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/make-it-spatial-how-to-succeed-in-xr",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "metaverse-and-game",
+    "title": "Metaverse and Game",
+    "description": "The Metaverse & Game panel brings together experts in the fields of Metaverse and gaming to discuss the future of immersive experiences. They will delve into topics such as the design of immersive experiences, game loops and economies in the metaverse, and the challenges of building a sustainable metaverse ecosystem.",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "speakerIds": [
+      "yu-kai-chou",
+      "russell-sng",
+      "yun-fan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/metaverse-and-game",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "metaverse-and-gaming",
+    "title": "Metaverse and Gaming",
+    "description": "Explore the dynamic fusion of the \"Metaverse and Gaming\" with Yibing Jiang and Jenny Guo at the forefront. Yibing, an indie game developer and former Creative Director at Unity, revolutionizes real-time rendering after honing her skills at Pixar and Disney Animation. Her groundbreaking projects like 'Windup' garnered global acclaim, pushing the boundaries of animation and gaming technology. Joining her, Jenny Guo, co-founder of Highstreet, pioneers VR-driven MMORPG games intertwining commerce and virtual reality. Recognized on Forbes 30 under 30, Jenny's journey from Emmy-winning producer to tech entrepreneur showcases her influence in shaping the digital landscape. Together, they illuminate the transformative power of immersive experiences in gaming and beyond. Moderated by Sanya Chauhan.",
+    "startTime": "15:50",
+    "endTime": "16:50",
+    "speakerIds": [
+      "yibing-jiang",
+      "jenny-guo",
+      "sanya-chauhan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/metaverse-and-gaming",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "networking-night",
+    "title": "Networking Night",
+    "description": "Wrap up the day with light refreshments and meaningful conversations. Connect with fellow attendees to reflect, collaborate, and build lasting connections across the XR community.",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/networking-night",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "networking-night-2026",
+    "title": "Networking Night",
+    "description": "Wrap up the day with light refreshments and meaningful conversations. Connect with fellow attendees to reflect, collaborate, and build lasting connections across the XR community.",
+    "startTime": "18:00",
+    "endTime": "19:30",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/networking-night-2026",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "opening",
+    "title": "Opening",
+    "description": "",
+    "startTime": "9:30",
+    "endTime": "10:00",
+    "speakerIds": [
+      "bharat-n-anand"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/opening",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "opening-2026",
+    "title": "Opening",
+    "description": "Kick off HXR 2026 with a warm welcome from the organizing team as we introduce this year's theme: \"XR+: From Pixel to Voxel\".",
+    "startTime": "9:45",
+    "endTime": "10:00",
+    "speakerIds": [
+      "ash-he",
+      "wenxin-li"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/opening-2026",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "opening-session-harvardxr-2025",
+    "title": "HarvardXR Opening",
+    "description": "Kick off HarvardXR 2025 with a warm welcome from the organizing team as we introduce this year's theme, \"The Augmented Self.\" This brief session will set the stage for a day of exploration into how XR technologies are reshaping human interaction, creativity, and industry. Discover the vision behind the conference and what to expect from the panels, workshops, and showcases ahead.",
+    "startTime": "9:30",
+    "endTime": "10:00",
+    "speakerIds": [
+      "jenny-jiang",
+      "nix-liu-xin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/opening-session-harvardxr-2025",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "pitch-competition",
+    "title": "Pitch Competition",
+    "description": "Twelve teams present at the , hosted by the , bringing exploratory and applied XR together under the theme , from research prototypes and speculative work to venture-ready products at the intersection of . HXR 2026 Showcase & Competition Harvard GSD XR Club From Pixel to Voxel XR, AI, spatial computing, and embodied media",
+    "startTime": "12:20",
+    "endTime": "13:20",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/pitch-competition",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "sci-tech-art",
+    "title": "Sci-Tech Art",
+    "description": "How does artificial intelligence assist the face replacement visual effects of the characters in \"The Wandering Earth 2\"? How to achieve the cross-media audio-visual effect of the opening ceremony of the Beijing Winter Olympics? How can social media platform AR filters reshape our perception of self-personality? In this section, we explore the future-facing multi-sensory immersive experience.",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "speakerIds": [
+      "cao-yuxi-james",
+      "han-cao",
+      "nix-liu-xin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/sci-tech-art",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "spatial-reality",
+    "title": "Spatial Reality",
+    "description": "By merging the digital and physical worlds, extended reality has the potential to revolutionize the way we experience urban and built spaces. This section aims to delve into how XR can fundamentally change our experience of urban spaces, and how we can use this technology to create more engaging and liveable environments.",
+    "startTime": "15:15",
+    "endTime": "16:45",
+    "speakerIds": [
+      "bas-van-de-poel",
+      "roger-daglius-dias",
+      "nix-liu-xin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/spatial-reality",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "strategy-innovation-in-the-xr-economy",
+    "title": "Strategy & Innovation in the XR Economy",
+    "description": "In this session, Virginie Maillard, Head of Global Research in Simulation and Digital Twin at Siemens, will explore how integrating digital twins, AI, and immersive technologies can enhance performance and sustainability in manufacturing processes. Following the presentation, a fireside chat with Trishna Lovley and Nancy Soignoli will delve deeper into the strategic integration of experiential technologies, highlighting how organizations can move beyond mere adoption to purposeful application, ensuring that technology serves as a meaningful tool for advancement rather than just the latest trend.",
+    "startTime": "16:10",
+    "endTime": "17:10",
+    "speakerIds": [
+      "trishna-lovley",
+      "nancy-soignoli",
+      "virginie-maillard"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/strategy-innovation-in-the-xr-economy",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "vip-reception",
+    "title": "VIP Reception",
+    "description": "",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "speakerIds": [],
+    "sourceUrl": "https://harvardxr.com/events/vip-reception",
+    "editionYears": [
+      2023
+    ]
+  },
+  {
+    "id": "women-in-xr",
+    "title": "Women in XR",
+    "description": "Experience an inspiring session titled \"Women in XR,\" where we spotlight the remarkable contributions of female pioneers at the helm of the extended reality (XR) revolution. This session is dedicated to showcasing the innovative work, challenges overcome, and groundbreaking advancements driven by women in the fields of virtual reality (VR), augmented reality (AR), and mixed reality (MR). Engage with stories of leadership, creativity, and technological breakthroughs that are defining the future of immersive experiences and digital interaction. This session promises an empowering look at the contributions and forward-thinking approaches of women leading the charge in XR technologies. Join us to celebrate their achievements, learn from their experiences, and envision the future of immersive digital environments together. Featured Talks \"If Jensen Were Born a Girl\" by Rika Nakazawa The XR and spatial computing industry would not be where it is today without extraordinary women trailblazers. From Lovelace, to Hopper, to the computing madam geniuses of today, we’ll delve into the impact of women in XR – and how creative, engineering genius transcends gender. For example, would NVIDIA still be the NVIDIA today if Jensen were born a girl? Let’s debate and muse! \"Leaving Flatland: Easing the Transition to XR Design\" by Michelle Cortese Can an audience of XR enthusiasts absorb the core principles and frameworks of spatial design in less than 30 minutes? Let’s find out! This talk is a condensed version of a graduate-level class I teach at NYU that unpacks the tools, processes and ethical considerations of MR and VR design—specifically architected to help 2D designers transition into XR. The syllabus collates design strategies acquired through a decade of work in VR, nearly seven at Meta Reality Labs and the development of multiple VR design systems. Moderated by Alexia Asgari.",
+    "startTime": "13:10",
+    "endTime": "14:10",
+    "speakerIds": [
+      "michelle-cortese",
+      "rika-nakazawa",
+      "alexia-asgari"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/women-in-xr",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "xr-ai-world-models-and-spatial-understanding",
+    "title": "XR + AI World Models and Spatial Understanding",
+    "description": "This session explores how computational world models are transforming how machines perceive and interact with space. Drawing from AI, simulation, and spatial computing, it examines how systems construct internal representations of complex environments for prediction and navigation. The discussion highlights how these models influence design across virtual and physical contexts. By linking technical innovation with spatial thinking, the session reflects on how machine perception is reshaping spatial understanding and human–machine relationships.",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "speakerIds": [
+      "matt-miesnieks",
+      "gibran-mourani"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-ai-world-models-and-spatial-understanding",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "xr-for-ai-robotics-and-webspatial",
+    "title": "XR for AI, Robotics, and WebSpatial",
+    "description": "XR has thrived as a gaming platform, yet its potential in broader application areas are underexplored. Ke and Ruoya will present Pico's recent works that expand the innovative spectrum for XR developers: robotics teleoperation, SecureMR for AI model deployment, rendering 3D Gaussian Splats, and making websites spatial.",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "speakerIds": [
+      "ruoya-sheng",
+      "ke-jing"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-for-ai-robotics-and-webspatial",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-for-art-imagination-creation-and-cultural-conception",
+    "title": "XR for Art, Imagination, Creation and Cultural Conception",
+    "description": "Join Bilawal Sidhu and Manuel Sainsily for a session exploring the fusion of XR, AI, and artistic expression. Sidhu, a creative technologist and TED curator, will discuss how generative AI and spatial computing are transforming storytelling and design. Sainsily, a futurist and XR advocate at Unity, will share insights from his work blending Caribbean culture with emerging technologies. Together, they will examine how immersive tools are reshaping creativity, cultural narratives, and the future of digital art.",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "speakerIds": [
+      "bilawal-sidhu",
+      "manuel-sainsily"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-for-art-imagination-creation-and-cultural-conception",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-for-impact-and-social-goods",
+    "title": "XR for Impact and Social Goods",
+    "description": "Devesh Jain will present a device-agnostic XR platform fostering immersive collaboration on climate, education, and governance. Simson L. Garfinkel, a privacy expert, will discuss the dual nature of XR-generated data—its potential for societal benefits like early disease detection and the privacy challenges it poses. He advocates for privacy-preserving techniques, such as differential privacy, to harness data for social good while safeguarding individual privacy. Together, they offer insights into leveraging XR responsibly for collective advancement.",
+    "startTime": "16:10",
+    "endTime": "17:10",
+    "speakerIds": [
+      "devesh-jain",
+      "simson-garfinkel"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-for-impact-and-social-goods",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-hardware-and-intelligent-systems",
+    "title": "XR + Hardware and Intelligent Systems",
+    "description": "This session focuses on the technological foundations of XR, with an emphasis on hardware and intelligent systems. It explores advances in sensing, real-time processing, and spatial computing that enable responsive environments. The discussion highlights how physical devices integrate with AI to become active participants in interaction. It also addresses challenges in performance and scalability. The session provides insight into how emerging technologies are shaping the future of immersive computing.",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "speakerIds": [
+      "nick-cherukuri",
+      "brian-ringley"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-hardware-and-intelligent-systems",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "xr-in-academia-and-research",
+    "title": "XR in Academia and Research",
+    "description": "Explore the evolving role of XR in academia and research in this session featuring Eric Moerth, Mark Zhang, and Omer Liran. Eric Moerth will discuss the integration of XR in biomedical visualization, highlighting its impact on medical education and research. Mark Zhang will provide a brief overview of the American Medical Extended Reality Association (AMXRA), a professional society dedicated to advancing the science and practice of medical extended reality. Omer Liran will present on the use of XR in psychological research, focusing on virtual reality's potential in mental health studies. Together, they will provide a comprehensive overview of how XR technologies are advancing academic research and interdisciplinary collaboration.​",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "speakerIds": [
+      "eric-moerth",
+      "mark-zhang",
+      "omer-liran"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-academia-and-research",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-in-education",
+    "title": "XR in Education",
+    "description": "Dive into the forefront of educational innovation where we explore the dynamic intersection of extended realities (XR) and transformative learning experiences. This session promises to illuminate the pathways through which XR technologies - including virtual reality (VR), augmented reality (AR), and mixed reality (MR) - are revolutionizing teaching methodologies, learner engagement, and curriculum design across various educational landscapes. Featured Talks \"Extended Realities in Language Teaching and Learning\" by Nicole Mills and Arnaud Dressen Join Nicole Mills, a distinguished Director of Language Programs at Harvard University, alongside Arnaud Dressen, the visionary founder of Wonda, as they delve into the impactful integration of XR in language education. Their talk will explore groundbreaking strategies for harnessing VR and AR to enhance language acquisition, immersion, and cultural competency, backed by their extensive research and innovative applications in the field. \"Next-Generation Immersive Learning: Upskilling, Reskilling, Transfer, and Unlearning\" by Chris Dede Chris Dede, a Senior Research Fellow at the Harvard Graduate School of Education and a trailblazer in learning technologies, will present on the transformative potential of next-generation immersive learning environments. Focusing on upskilling, reskilling, knowledge transfer, and the unlearning of outdated concepts, Dede's insights stem from his pioneering work at the intersection of AI, online education, and adult learning. Discover how these immersive experiences can foster deep, personalized learning journeys and prepare learners for the challenges of the digital economy. Moderated by Yun Fan.",
+    "startTime": "11:10",
+    "endTime": "12:10",
+    "speakerIds": [
+      "chris-dede",
+      "nicole-mills",
+      "arnaud-dressen",
+      "yun-fan"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-education",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "xr-in-education-2025",
+    "title": "XR in Education",
+    "description": "Join Ori Inbar, co-founder of AWE and a leading voice in immersive technology, as he presents \"The State of XR,\" exploring how extended reality is reshaping education through AI integration, enterprise adoption, and spatial computing. Following the keynote, Ken Zolot, Senior Lecturer at MIT, and Alvin Wang Graylin, Global VP at HTC and author of Our Next Reality, will engage in a fireside chat. They'll discuss the convergence of XR, AI, and the Internet of Everything, and how these technologies are transforming learning environments, fostering innovation, and preparing students for the future. This session offers insights into the evolving landscape of education powered by immersive technologies.​",
+    "startTime": "14:40",
+    "endTime": "15:40",
+    "speakerIds": [
+      "ori-inbar",
+      "ken-zolot",
+      "alvin-wang-graylin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-education-2025",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-in-enterprise",
+    "title": "XR in Enterprise",
+    "description": "Explore the transformative potential of XR in the enterprise sector with our insightful sessions \"Keeping Humans @ Center within Enterprise XR Solutions\" and \"Building Better Humans: How Technology Can Elevate Human Performance.\" Dive into how the emerging Enterprise Metaverse and GenAI solutions are reshaping communication, collaboration, and co-creation in business environments, emphasizing the importance of human-centric design amidst rapid technological advancements. Additionally, learn how AI and XR are being harnessed to enhance human capabilities, fostering a future where technology amplifies cognitive, physical, and emotional well-being, and drives significant advancements in business through improved training, engagement, and innovative processes. These discussions will illuminate the path towards a future where technology serves to elevate the human experience in the enterprise realm, ensuring that human needs and conditions are at the forefront of digital transformation. Moderated by Elizabeth Huang.",
+    "startTime": "11:10",
+    "endTime": "12:10",
+    "speakerIds": [
+      "domhnaill-hernon",
+      "amy-peck",
+      "elizabeth-huang"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-enterprise",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "xr-in-gaming-immersive-environments",
+    "title": "XR + Gaming and Interactive Worlds",
+    "description": "This session explores how XR is redefining gaming as an immersive medium. By integrating spatial interaction and real-time responsiveness, XR expands possibilities for gameplay and storytelling. The discussion highlights hybrid environments that blur physical and virtual boundaries. It also considers gaming as a testing ground for emerging technologies influencing broader design practices. The session reflects on how XR is shaping new forms of engagement and interactive experiences.",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "speakerIds": [
+      "rex-dickson",
+      "francesco-antolini"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-gaming-immersive-environments",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "xr-in-healthcare",
+    "title": "XR in Healthcare",
+    "description": "Witness the merger of innovative worlds in pain management and pediatric care within the \"XR in Healthcare\" session at HarvardXR. This comprehensive talk, led by pioneers Kate Donovan of Boston Children’s Hospital and Dr. John E. Rubin along with Dr. Rohan Jotwani from Weill Cornell, showcases the transformative potential of Extended Reality (XR) in reshaping healthcare practices, patient experiences, and medical education. Moderated by Casey Armstrong.",
+    "startTime": "14:20",
+    "endTime": "15:20",
+    "speakerIds": [
+      "dr-rohan-jotwani",
+      "john-e-rubin-md",
+      "kate-donovan",
+      "casey-armstrong"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-healthcare",
+    "editionYears": [
+      2024
+    ]
+  },
+  {
+    "id": "xr-in-healthcare-well-being",
+    "title": "XR in Healthcare & Well-Being",
+    "description": "This session explores how emerging technologies are transforming healthcare through innovation and human-centered design. It examines how digital tools and immersive systems improve diagnosis, treatment, and care delivery. The discussion highlights interdisciplinary collaboration and ethical considerations in addressing complex challenges. It also considers how technology enhances communication between patients and providers. The session reflects on how design contributes to more accessible and responsive healthcare systems.",
+    "startTime": "14:05",
+    "endTime": "15:05",
+    "speakerIds": [
+      "jeffrey-jacobson",
+      "mark-zhang",
+      "amanda-mcintyre-mfa-bsn-rn",
+      "min-lang"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-healthcare-well-being",
+    "editionYears": [
+      2026
+    ]
+  },
+  {
+    "id": "xr-in-healthcare-wellbeing",
+    "title": "XR in Healthcare & Wellbeing",
+    "description": "Join neuroscientist and digital medicine pioneer Dr. Walter Greenleaf and XR wellness innovator Tristan Elizabeth Gribbin for an in-depth discussion on how immersive technologies are transforming healthcare and well-being. Dr. Greenleaf will explore how AI and XR are enhancing diagnostics, personalizing treatment, and improving clinical training—particularly in areas like PTSD, stroke recovery, and behavioral health. Tristan will share her journey in creating Flow, a VR meditation platform that brings mindfulness practices to new audiences, and discuss how immersive tools can reduce stress and promote mental resilience.",
+    "startTime": "13:30",
+    "endTime": "14:30",
+    "speakerIds": [
+      "walter-greenleaf",
+      "tristan-elizabeth-gribbin"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-in-healthcare-wellbeing",
+    "editionYears": [
+      2025
+    ]
+  },
+  {
+    "id": "xr-platforms-hardware",
+    "title": "XR + Platforms and Content Infrastructure",
+    "description": "This session examines the platforms and infrastructure that support XR content creation and distribution. As immersive experiences scale, challenges arise in interoperability, performance, and content management. The discussion focuses on how tools and systems are evolving to support creators within complex ecosystems. It highlights the importance of robust pipelines for seamless experiences. The session emphasizes the role of infrastructure in shaping the future of XR content.",
+    "startTime": "14:40",
+    "endTime": "15:40",
+    "speakerIds": [
+      "ivan-varko",
+      "alon-grinshpoon"
+    ],
+    "sourceUrl": "https://harvardxr.com/events/xr-platforms-hardware",
+    "editionYears": [
+      2026
+    ]
+  }
+]

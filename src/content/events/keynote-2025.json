@@ -1,0 +1,14 @@
+{
+  "id": "keynote-2025",
+  "title": "Keynote",
+  "description": "Join Austin Lee, Head of XR at Samsung Electronics, for a keynote unveiling the company's vision for the future of immersive technology. In \"AI Meets XR,\" Lee will introduce One UI XR, Samsung's new spatial interface designed for the Android XR platform, developed in collaboration with Google and Qualcomm. He will showcase Project Moohan, Samsung's upcoming XR headset powered by the Snapdragon XR2+ Gen 2 chipset, highlighting its integration of multimodal AI to deliver context-aware experiences. This session will provide insights into how Samsung is merging AI, hardware, and software to create seamless, intuitive XR interactions.​",
+  "startTime": "10:00",
+  "endTime": "10:50",
+  "speakerIds": [
+    "austin-lee"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/keynote-2025",
+  "editionYears": [
+    2025
+  ]
+}

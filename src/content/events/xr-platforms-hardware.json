@@ -1,0 +1,15 @@
+{
+  "id": "xr-platforms-hardware",
+  "title": "XR + Platforms and Content Infrastructure",
+  "description": "This session examines the platforms and infrastructure that support XR content creation and distribution. As immersive experiences scale, challenges arise in interoperability, performance, and content management. The discussion focuses on how tools and systems are evolving to support creators within complex ecosystems. It highlights the importance of robust pipelines for seamless experiences. The session emphasizes the role of infrastructure in shaping the future of XR content.",
+  "startTime": "14:40",
+  "endTime": "15:40",
+  "speakerIds": [
+    "ivan-varko",
+    "alon-grinshpoon"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/xr-platforms-hardware",
+  "editionYears": [
+    2026
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "valentin-heun",
+  "name": "Valentin Heun",
+  "organization": "PTC",
+  "title": "VP of Innovation Engineering",
+  "notableTitle": "MIT Media Lab",
+  "bio": "Valentin Heun is a VP of Innovation Engineering at PTC where he is leading the PTC Reality Lab. His work focuses on new computer interaction methods for the physical space. Valentin’s works have been published in many academic conferences such as Ubiquitous Computing, SIGGRAPH Asia, and Computer-Human Interaction conference. His work (Reality Editor) was named by Fast Company as Boldest Ideas in User Interface Design, and has received global recognition, including the SIGGRAPH Asia Emerging Technologies Prize, awarded by Wired UK to the Smart List, and received the Editor’s Choice Award for IoT Software & Tools by PostScapes. Valentin holds a Ph.D. and Master of Science from the MIT Media Lab and the German Diplom in Design from the Bauhaus-University Weimar.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65ec7dc81a261fbe5f891e40_Valentin.jpeg",
+  "socialLinks": [
+    "http://www.valentinheun.com/",
+    "https://www.linkedin.com/in/valentin-heun/"
+  ],
+  "eventIds": [
+    "future-prototypes"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/valentin-heun",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65ec7dc81a261fbe5f891e40_Valentin.jpeg"
+}

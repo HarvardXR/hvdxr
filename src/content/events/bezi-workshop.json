@@ -1,0 +1,14 @@
+{
+  "id": "bezi-workshop",
+  "title": "Bezi Workshop",
+  "description": "Experience an immersive workshop led by Julian Park, the co-founder and CEO of Bezi, as he delves into the world of designing and prototyping for spatial computing. Julian will debunk the complexities and demonstrate how approachable spatial design can be by providing attendees with real-world examples and hands-on experience. From understanding spatial interfaces to mastering prototyping techniques, this session promises to equip participants with the skills needed to excel in future professional roles. Don't miss this unique opportunity to learn from an industry expert and participate in an interactive Q&A session.",
+  "startTime": "14:20",
+  "endTime": "15:20",
+  "speakerIds": [
+    "julian-park"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/bezi-workshop",
+  "editionYears": [
+    2024
+  ]
+}

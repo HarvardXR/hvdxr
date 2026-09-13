@@ -1,0 +1,24 @@
+{
+  "id": "nix-liu-xin",
+  "name": "Nix Liu Xin",
+  "organization": "Harvard GSD, MIT Media Lab",
+  "title": "Founder, Onceness / Play.Work Labs",
+  "notableTitle": "",
+  "bio": "Nix Liu Xin, a computational media artist, director, designer, and Harvard graduate, is the founder and CEO of Onceness, an experiential AI company. Its mission is to enable everyone to create and share interactive experiences through AI-driven intelligent world-making and 4D volumetric media. He was named to the AACYF 30 Under 30 and has received accolades such as the Harvard Design Studies Domain Award, the CGarchitect 3D Awards, and the MIT AI Film Hack Award for Best Picture. Additionally, Nix was featured as an artist at the Lianzhou Photography Biennale. He is also the co-founder of the HarvardXR Conference and the Creative.Tech Community.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f61c5730f82d56cd82ca_Frame%2035.png",
+  "socialLinks": [
+    "https://www.liuxin.com/",
+    "https://www.linkedin.com/in/nixliuxin/",
+    "https://www.instagram.com/nixliuxin/",
+    "https://twitter.com/nixliuxin"
+  ],
+  "eventIds": [
+    "sci-tech-art",
+    "spatial-reality",
+    "immersive-reality",
+    "harvardxr-2024-closing-ceremony",
+    "opening-session-harvardxr-2025"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/nix-liu-xin",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f61c5730f82d56cd82ca_Frame%2035.png"
+}

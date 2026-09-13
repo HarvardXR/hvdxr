@@ -1,0 +1,16 @@
+{
+  "id": "entrepreneurship-and-innovation",
+  "title": "Entrepreneurship and Innovation",
+  "description": "Experience a groundbreaking session on \"Entrepreneurship & Innovation\" at HarvardXR, where we delve into the revolutionary impact of extended reality (XR) technologies on healthcare. This session features Eran Orr, CEO of XRHealth, and Mark Zhang, President of AMXRA, who will share their pioneering work in immersive therapeutic platforms and medical extended reality, reshaping the way we approach mental, physical, and cognitive health. Featured Talks \"XRHealth: Immersive Therapeutic Platform\" by Eran Orr Discover how XRHealth is leading the charge in healthcare innovation, utilizing VR, AR, and MR to offer personalized therapeutic interventions. Orr's insights into enhancing patient experiences promise a deeper look into the future of telehealth and therapeutic technologies. \"Medical Extended Reality - An Emerging 21st Century Specialty\" by Mark Zhang Mark Zhang explores the burgeoning field of medical extended reality, highlighting its potential to transform healthcare delivery, patient engagement, and treatment outcomes. Learn about the latest advancements and the visionary leadership driving this specialty forward. Moderated by Allison Oh.",
+  "startTime": "15:50",
+  "endTime": "16:50",
+  "speakerIds": [
+    "eran-orr",
+    "mark-zhang",
+    "allison-oh"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/entrepreneurship-and-innovation",
+  "editionYears": [
+    2024
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eric-moerth",
+  "name": "Eric Moerth",
+  "organization": "Harvard Medical School",
+  "title": "Research Fellow in Biomedical Informatics",
+  "notableTitle": "",
+  "bio": "Eric Moerth is a Post Doctoral Specialist Research Fellow in the Department of Biomedical Informatics at Harvard Medical School (DBMI) and part of the HIDIVE Lab. He received his PhD from the University of Bergen in Norway. During his PhD study, Eric Moerth conducted research in multimodal medical visualization. His focus was the research of new and innovative ways to visualize and explore medical data. Now Eric is researching the visualization of large-scale 3D Tissue Images using novel rendering techniques. Furthermore, his research enables the efficient analysis of highly multiplexed tissue images, and he also investigates how novel output devices like virtual and augmented reality devices can help investigators make better sense of their data.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67dc76933e102a0b943870c6_Eric%20Moerth.png",
+  "socialLinks": [
+    "https://www.linkedin.com/in/ericmoerth/?locale=en_US"
+  ],
+  "eventIds": [
+    "xr-in-academia-and-research"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/eric-moerth",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67dc76933e102a0b943870c6_Eric%20Moerth.png"
+}

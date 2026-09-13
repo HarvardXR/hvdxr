@@ -1,0 +1,12 @@
+{
+  "id": "checkin",
+  "title": "Checkin",
+  "description": "",
+  "startTime": "9:00",
+  "endTime": "9:30",
+  "speakerIds": [],
+  "sourceUrl": "https://harvardxr.com/events/checkin",
+  "editionYears": [
+    2023
+  ]
+}

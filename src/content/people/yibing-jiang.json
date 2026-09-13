@@ -1,0 +1,19 @@
+{
+  "id": "yibing-jiang",
+  "name": "Yibing Jiang",
+  "organization": "Unity",
+  "title": "Indie Game Developer",
+  "notableTitle": "Former Creative Director at Unity",
+  "bio": "Yibing has dedicated 12 years to AAA game rendering, with a background that began as an artist at both Pixar and Disney Animation, she foresaw the potential of real-time rendering, driving her transition from animation films to games. At Naughty Dog, she elevated character shading for 'Uncharted 4' and 'The Last of Us II', pushing the boundaries of realistic rendering in console games. Her journey continued as a Creative Director at Unity, Yibing wrote and directed 'Windup,' a real-time rendered animation film. 'Windup' qualified for the Oscars, received a nomination for the NAACP Image Awards and received Best Animation Awards from the USA Film Festival, Urbanworld Film Festival, Indie Short Fest, and Reel Sisters Film Festivals. Notably, 'Windup' was one of the first films rendered entirely on a game engine at 30fps. In addition, she led efforts in character rendering for mobile games, introducing TressFX spline-based hair in Unity's Universal Rendering Pipeline running at 70fps on an iPhone 13. Currently, Yibing is pursuing her passion as an indie game developer, working on a prototype for a multi-platform RPG game.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65e28bf0589c611a9e587b02_engage.jpg",
+  "socialLinks": [
+    "https://yibingjiang.com/",
+    "https://www.linkedin.com/in/yibing-jiang/",
+    "https://www.instagram.com/yibing_art/"
+  ],
+  "eventIds": [
+    "metaverse-and-gaming"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/yibing-jiang",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65e28bf0589c611a9e587b02_engage.jpg"
+}

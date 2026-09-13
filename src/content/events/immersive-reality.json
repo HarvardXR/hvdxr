@@ -1,0 +1,16 @@
+{
+  "id": "immersive-reality",
+  "title": "Immersive Reality",
+  "description": "Embark on a captivating journey into Immersive Reality, where the boundaries between creativity and innovation blur. Stewart Smith, Product Design Director at Unity Technologies, brings a dynamic fusion of software engineering and artistic brilliance. With a prestigious MFA from Yale University, Stewart's groundbreaking work spans from Google Doodles to virtual reality music videos, culminating in Quantum JavaScript, a pioneering tool driving quantum hardware. GMUNK, the visionary digital artist behind iconic works like \"TRON: Legacy\" and the Windows 10 desktop wallpaper, expands our perceptions with his enigmatic, atmospheric style. With a relentless pursuit of new mediums and collaborations, GMUNK's portfolio ranges from fine art to commercial projects for global brands, pushing the boundaries of identity, technology, and human connection. Witness as these trailblazers redefine immersive experiences and inspire the impossible. Moderated by Nix Liu Xin.",
+  "startTime": "14:20",
+  "endTime": "15:20",
+  "speakerIds": [
+    "stewart-smith",
+    "gmunk",
+    "nix-liu-xin"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/immersive-reality",
+  "editionYears": [
+    2024
+  ]
+}

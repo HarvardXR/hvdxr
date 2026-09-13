@@ -1,0 +1,19 @@
+{
+  "id": "george-papagiannakis",
+  "name": "George Papagiannakis",
+  "organization": "ORamaVR",
+  "title": "Co-Founder, CEO",
+  "notableTitle": "",
+  "bio": "Dr. George Papagiannakis is co-founder and CEO of ORamaVR, a Swiss deep-technology spatial computing medical VR startup, with the mission to accelerate world’s transition to medical virtual reality training. He is a computer scientist, specialized in computer graphics systems, extended reality algorithms and geometric algebra computational models. He is currently Professor of Computer Graphics at the Computer Science department of the University of Crete, Greece, associated faculty member at FORTH-ICS with the Human Computer Interaction Lab and visiting professor at the University of Geneva, Switzerland. His research interests are centered in the field of high-fidelity interactive computer graphics systems for human computer interaction, featuring embodied presence, psychomotor learning and gamification with simulated virtual humans in extended reality based on geometric algebra computational models. He is the author of a Springer-Nature book on Mixed Reality and Gamification which achieved more than 77.000 downloads so far, reaching the top 25% most downloaded eBooks on Springer- Nature. He is a board member of the Computer Graphics Society (CGS) and member of the IEEE, ACM, Eurographics and SIGGRAPH professional societies. He is associate editor of the Springer Visual Computer Journal, research topic lead editor of the Frontiers in Virtual Reality Journal and evaluator/reviewer for the European Commission and several National Research Funding agencies worldwide.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/642ba7a2a1186319f93361b5_Untiasdasdatled.png",
+  "socialLinks": [
+    "http://george.papagiannakis.org/",
+    "https://www.linkedin.com/in/george-papagiannakis-49b2261/",
+    "https://twitter.com/gpapagian76"
+  ],
+  "eventIds": [
+    "healthcare-and-education"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/george-papagiannakis",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/642ba7a2a1186319f93361b5_Untiasdasdatled.png"
+}

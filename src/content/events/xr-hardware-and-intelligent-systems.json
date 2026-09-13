@@ -1,0 +1,15 @@
+{
+  "id": "xr-hardware-and-intelligent-systems",
+  "title": "XR + Hardware and Intelligent Systems",
+  "description": "This session focuses on the technological foundations of XR, with an emphasis on hardware and intelligent systems. It explores advances in sensing, real-time processing, and spatial computing that enable responsive environments. The discussion highlights how physical devices integrate with AI to become active participants in interaction. It also addresses challenges in performance and scalability. The session provides insight into how emerging technologies are shaping the future of immersive computing.",
+  "startTime": "13:30",
+  "endTime": "14:30",
+  "speakerIds": [
+    "nick-cherukuri",
+    "brian-ringley"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/xr-hardware-and-intelligent-systems",
+  "editionYears": [
+    2026
+  ]
+}

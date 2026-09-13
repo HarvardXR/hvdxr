@@ -1,0 +1,20 @@
+{
+  "id": "alon-grinshpoon",
+  "name": "Alon Grinshpoon",
+  "organization": "ecoh3D",
+  "title": "CEO",
+  "notableTitle": "",
+  "bio": "CEO at echo3D, Techstars alum & mentor, MS in Computer Science from Columbia University specializing in 3D/AR/VR, BS in Computer Science and Electrical Engineering specializing in cloud technology, former NVIDIA engineer, published 3D UI researcher, a frequent speaker at CES, SXSW, Augmented World Expo (AWE), NYVR, Slush, and more.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69bc23e7b24e7db826ad6be4_Alon_Grinshpoon_3.png",
+  "socialLinks": [
+    "https://www.echo3D.com/",
+    "https://www.linkedin.com/in/alongrinshpoon/",
+    "https://www.linkedin.com/in/alongrinshpoon/",
+    "https://x.com/alongrinshpoon"
+  ],
+  "eventIds": [
+    "xr-platforms-hardware"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/alon-grinshpoon",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69bc23e7b24e7db826ad6be4_Alon_Grinshpoon_3.png"
+}

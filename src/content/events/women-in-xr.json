@@ -1,0 +1,16 @@
+{
+  "id": "women-in-xr",
+  "title": "Women in XR",
+  "description": "Experience an inspiring session titled \"Women in XR,\" where we spotlight the remarkable contributions of female pioneers at the helm of the extended reality (XR) revolution. This session is dedicated to showcasing the innovative work, challenges overcome, and groundbreaking advancements driven by women in the fields of virtual reality (VR), augmented reality (AR), and mixed reality (MR). Engage with stories of leadership, creativity, and technological breakthroughs that are defining the future of immersive experiences and digital interaction. This session promises an empowering look at the contributions and forward-thinking approaches of women leading the charge in XR technologies. Join us to celebrate their achievements, learn from their experiences, and envision the future of immersive digital environments together. Featured Talks \"If Jensen Were Born a Girl\" by Rika Nakazawa The XR and spatial computing industry would not be where it is today without extraordinary women trailblazers. From Lovelace, to Hopper, to the computing madam geniuses of today, we’ll delve into the impact of women in XR – and how creative, engineering genius transcends gender. For example, would NVIDIA still be the NVIDIA today if Jensen were born a girl? Let’s debate and muse! \"Leaving Flatland: Easing the Transition to XR Design\" by Michelle Cortese Can an audience of XR enthusiasts absorb the core principles and frameworks of spatial design in less than 30 minutes? Let’s find out! This talk is a condensed version of a graduate-level class I teach at NYU that unpacks the tools, processes and ethical considerations of MR and VR design—specifically architected to help 2D designers transition into XR. The syllabus collates design strategies acquired through a decade of work in VR, nearly seven at Meta Reality Labs and the development of multiple VR design systems. Moderated by Alexia Asgari.",
+  "startTime": "13:10",
+  "endTime": "14:10",
+  "speakerIds": [
+    "michelle-cortese",
+    "rika-nakazawa",
+    "alexia-asgari"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/women-in-xr",
+  "editionYears": [
+    2024
+  ]
+}

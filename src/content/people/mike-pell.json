@@ -1,0 +1,18 @@
+{
+  "id": "mike-pell",
+  "name": "Mike Pell",
+  "organization": "Microsoft",
+  "title": "Director",
+  "notableTitle": "Microsoft Garage NYC",
+  "bio": "Bold, insightful, and uncompromising, Mike Pell is widely recognized as a world-class Designer and industry thought leader in the fields of Innovation, Visualization , and Data + AI. Pell currently leads The Microsoft Garage in New York City, where he regularly disrupts the thinking, strategy, and business models of the world’s top companies and organizations. His evolution from intrepid entrepreneur, to VC-backed startup veteran, to corporate man for Adobe and Microsoft has given him a unique perspective on how to combine business, design, and technology to create breakthrough experiences.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65e13dd5d7a17f5f1fdb24fb_MPell_Envisioneer_Author.jpg",
+  "socialLinks": [
+    "https://Mike-Pell.com",
+    "https://www.linkedin.com/in/mikepell/"
+  ],
+  "eventIds": [
+    "future-prototypes"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/mike-pell",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65e13dd5d7a17f5f1fdb24fb_MPell_Envisioneer_Author.jpg"
+}

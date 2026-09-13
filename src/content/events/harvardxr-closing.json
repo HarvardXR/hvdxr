@@ -1,0 +1,16 @@
+{
+  "id": "harvardxr-closing",
+  "title": "HarvardXR Closing",
+  "description": "Conclude your HarvardXR 2025 experience with closing remarks that encapsulate the day's insights and discussions. We'll reflect on the key themes explored, celebrate the contributions of our speakers and participants, and look ahead to the future of XR. Join us in acknowledging the collaborative spirit that drives innovation in the immersive technology community.",
+  "startTime": "17:50",
+  "endTime": "18:00",
+  "speakerIds": [
+    "zihao-zhang",
+    "hongbee-park",
+    "winkie-tian"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/harvardxr-closing",
+  "editionYears": [
+    2025
+  ]
+}

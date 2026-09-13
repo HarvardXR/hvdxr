@@ -1,0 +1,16 @@
+{
+  "id": "creative-platforms",
+  "title": "Creative Platforms",
+  "description": "Delve into the realm of \"Creative Platforms\" with visionary speakers Martin Sawtell and Julian Park. Martin Sawtell, XR Lead at Dell Technologies, is a pioneer in the XR domain, bridging the gap between virtual and physical worlds through innovative use cases and technology platforms. His journey includes groundbreaking contributions from co-founding a VR med-tech startup to leveraging his vast experience in visual effects on major films, such as \"Star Wars\" and \"Ready Player One,\" highlighting his commitment to innovation and the exploration of the Metaverse and GenAI tools. Joining him is Julian Park, CEO of Bezi, revolutionizing spatial design collaboration. With a background in software engineering at Oculus, Julian's expertise drives Bezi's mission to empower design teams worldwide. Together, they illuminate the transformative power of creative platforms in shaping the future of design and interaction. Moderated by Cole Leng.",
+  "startTime": "13:10",
+  "endTime": "14:10",
+  "speakerIds": [
+    "martin-sawtell",
+    "julian-park",
+    "yanpeng-cole-leng"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/creative-platforms",
+  "editionYears": [
+    2024
+  ]
+}

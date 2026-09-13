@@ -1,0 +1,18 @@
+{
+  "id": "michael-levine",
+  "name": "Michael Levine",
+  "organization": "Mystic Moose",
+  "title": "CEO",
+  "notableTitle": "",
+  "bio": "Mike Levine is the founder and CEO of Mystic Moose, creator of Planet Mojo. He has been working with interactive and digital media for over 25 years. A veteran of LucasArts Entertainment, Mike sat on the Technology Council at Skywalker Ranch, created & ran the Visual FX group at LucasArts, and developed several breakthrough art production techniques on classic LEC games. After Lucas, Mike formed Puffin Designs with ILM veterans, a VFX Software Tools company that was later acquired by Pinnacle. Mike and his last company HappyGiant are a recognized leader in the VR/AR space, working with large brands, companies, and speaking at industry leading events such as AWE, ARIA(MIT), and others. Sam & Max: This Time It’s Virtual!, a VR game bringing back the iconic gaming duo, was their latest game before moving to the Web3 space.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/64101d51f4bdf267b4a76c1b_1517691571203.jpeg",
+  "socialLinks": [
+    "https://happygiant.com/",
+    "https://www.linkedin.com/in/levinemike/"
+  ],
+  "eventIds": [
+    "building-the-metaverse"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/michael-levine",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/64101d51f4bdf267b4a76c1b_1517691571203.jpeg"
+}

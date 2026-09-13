@@ -1,0 +1,19 @@
+{
+  "id": "alex-coulombe",
+  "name": "Alex Coulombe",
+  "organization": "Agile Lens",
+  "title": "CEO and Studio Head",
+  "notableTitle": "",
+  "bio": "Alex Coulombe runs Agile Lens, an award-winning immersive design studio in NYC specializing in virtual reality, augmented reality, and real-time technology. With a background in architecture, theatre, and emerging technology, Alex has spent over fifteen years pioneering spatial design workflows, custom enterprise XR solutions, and groundbreaking immersive live performances for clients ranging from Royal Caribbean to the Royal Shakespeare Company. He is a Gold Unreal Engine Authorized Instructor, Chapter Lead of Unreal NYC, and a frequent speaker at industry events such as SIGGRAPH, AWE, SXSW, FMX, and Unreal Fest, championing battle-tested lessons at the intersection of spatial computing and human-centric design.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69cc2caaffe273be61229c81_alex.JPG",
+  "socialLinks": [
+    "https://agilelens.com",
+    "https://linkedin.com/in/alexcoulombe",
+    "https://x.com/iBrews"
+  ],
+  "eventIds": [
+    "2026-end-note"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/alex-coulombe",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69cc2caaffe273be61229c81_alex.JPG"
+}

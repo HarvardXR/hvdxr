@@ -1,0 +1,18 @@
+{
+  "id": "matt-miesnieks",
+  "name": "Matt Miesnieks",
+  "organization": "STEALTH WORLD MODEL STARTUP",
+  "title": "CO-FOUNDER & CEO",
+  "notableTitle": "",
+  "bio": "Matt is a serial entrepreneur with over 15 years building at the intersection of computer vision, spatial computing, and applied AI. He began his career as an Engineer in Sydney before spending a decade leading Enterprise Sales for frontier technology companies across APAC. He then led business at Layar — one of the first AR platforms — and founded Dekko, a mobile computer vision startup. In 2016 he co-founded 6D.ai, which pioneered the AR Cloud: a real-time 3D scene understanding platform that enabled mobile devices to reconstruct and reason about physical spaces. 6D.ai was acquired by Niantic in 2020, where its technology became core infrastructure for large-scale AR mapping. Matt leads the company's flagship product for CV developers. He is focused on building the next generation of predictive world models, applying JEPA-based architectures to give computer vision developers research-grade scene understanding infrastructure. He is a frequent speaker and writer on spatial computing, physical AI, and the future of machine perception.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69c2f82fae9553c200cc280a_Favorite%20Headshot.jpeg",
+  "socialLinks": [
+    "https://www.linkedin.com/in/mattmiesnieks",
+    "https://x.com/mattmiesnieks"
+  ],
+  "eventIds": [
+    "xr-ai-world-models-and-spatial-understanding"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/matt-miesnieks",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69c2f82fae9553c200cc280a_Favorite%20Headshot.jpeg"
+}

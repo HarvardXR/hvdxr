@@ -1,0 +1,15 @@
+{
+  "id": "xr-for-ai-robotics-and-webspatial",
+  "title": "XR for AI, Robotics, and WebSpatial",
+  "description": "XR has thrived as a gaming platform, yet its potential in broader application areas are underexplored. Ke and Ruoya will present Pico's recent works that expand the innovative spectrum for XR developers: robotics teleoperation, SecureMR for AI model deployment, rendering 3D Gaussian Splats, and making websites spatial.",
+  "startTime": "13:30",
+  "endTime": "14:30",
+  "speakerIds": [
+    "ruoya-sheng",
+    "ke-jing"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/xr-for-ai-robotics-and-webspatial",
+  "editionYears": [
+    2025
+  ]
+}

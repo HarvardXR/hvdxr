@@ -1,0 +1,17 @@
+{
+  "id": "william-cannady",
+  "name": "William Cannady",
+  "organization": "NVIDIA",
+  "title": "Technical Product Manager",
+  "notableTitle": "",
+  "bio": "William (“Will”) Cannady is a Technical Product Manager on NVIDIA's Enterprise XR team. He collaborates with partners and customers to improve NVIDIA's extended reality product offerings. Before NVIDIA, William worked at Amazon Web Services (AWS) and helped bring the first examples of cloud computing to XR workloads, including remote application streaming. William holds a B.S. from the University of Wisconsin-La Crosse and additional education from the City University of New York. Passionate about advancing XR technologies, William contributes to several projects, including the NVIDIA CloudXR, specializes in scalable immersive experiences and cloud-based XR workflows, and holds a patent for bridging XR with traditional telephony over the web. When not tinkering with technology, he’s passionate about delivering equal access to technology, knowledge, and the outdoors.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67e7fcc94e9d076b0c6c383a_Will%20GTC%20Profile%20Pic.jpg",
+  "socialLinks": [
+    "https://www.linkedin.com/in/willcannady"
+  ],
+  "eventIds": [
+    "embodied-xr-hardware-innovation"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/william-cannady",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67e7fcc94e9d076b0c6c383a_Will%20GTC%20Profile%20Pic.jpg"
+}

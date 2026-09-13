@@ -1,0 +1,16 @@
+{
+  "id": "creating-worlds-with-genai-and-developing-for-mr-on-horizon",
+  "title": "Creating Worlds with GenAI and Developing for MR on Horizon",
+  "description": "In this hands-on workshop, Yiqi and Jordan introduce Meta Horizon Worlds' generative AI tools—Code Gen, Audio Gen, and 3D Gen—demonstrating how these tools streamline the creation of 3D assets, NPCs, and audio elements to enhance virtual experiences. Following this, Dilmer provides a crash course on developing mixed reality applications using Meta's Building Blocks, a Unity extension that facilitates rapid prototyping by allowing developers to integrate features like Passthrough, Hand Tracking, and Multiplayer functionalities into their projects. Attendees will gain practical insights into setting up projects, integrating key features, and utilizing tools like the Meta XR Simulator and Immersive Debugger for efficient development cycles.",
+  "startTime": "14:40",
+  "endTime": "15:40",
+  "speakerIds": [
+    "dilmer-valecillos",
+    "jordan-thiel",
+    "yiqi-zhao"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/creating-worlds-with-genai-and-developing-for-mr-on-horizon",
+  "editionYears": [
+    2025
+  ]
+}

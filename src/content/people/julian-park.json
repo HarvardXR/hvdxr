@@ -1,0 +1,18 @@
+{
+  "id": "julian-park",
+  "name": "Julian Park",
+  "organization": "Bezi",
+  "title": "CEO",
+  "notableTitle": "University of California, Berkeley",
+  "bio": "Julian Park is the Co-founder and CEO of Bezi, a collaborative spatial design tool. Built on the web, Bezi enables design teams to easily turn ideas into 3D designs and interactive prototypes. Prior to Bezi, Julian was a software engineering leader at Oculus heading key projects across VR multitasking and UI frameworks. Julian holds a bachelor’s degree in Computer Science from the University of California, Berkeley.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65c0f6ae2349131be96c9446_julian-park.png",
+  "socialLinks": [
+    "https://www.linkedin.com/in/julianjpark/"
+  ],
+  "eventIds": [
+    "creative-platforms",
+    "bezi-workshop"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/julian-park",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65c0f6ae2349131be96c9446_julian-park.png"
+}

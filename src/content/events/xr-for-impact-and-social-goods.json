@@ -1,0 +1,15 @@
+{
+  "id": "xr-for-impact-and-social-goods",
+  "title": "XR for Impact and Social Goods",
+  "description": "Devesh Jain will present a device-agnostic XR platform fostering immersive collaboration on climate, education, and governance. Simson L. Garfinkel, a privacy expert, will discuss the dual nature of XR-generated data—its potential for societal benefits like early disease detection and the privacy challenges it poses. He advocates for privacy-preserving techniques, such as differential privacy, to harness data for social good while safeguarding individual privacy. Together, they offer insights into leveraging XR responsibly for collective advancement.",
+  "startTime": "16:10",
+  "endTime": "17:10",
+  "speakerIds": [
+    "devesh-jain",
+    "simson-garfinkel"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/xr-for-impact-and-social-goods",
+  "editionYears": [
+    2025
+  ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "american-medical-extended-reality-association",
+    "name": "American Medical Extended Reality Association",
+    "category": "sponsor",
+    "description": "",
+    "website": "http://www.amxra.org",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/6601c41e592996bf865e46fd_AMXRA%20logo%20patch%20(1).png",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/6601c41e592996bf865e46fd_AMXRA%20logo%20patch%20(1).png"
+  },
+  {
+    "id": "meshyai",
+    "name": "MeshyAI",
+    "category": "sponsor",
+    "description": "",
+    "website": "https://www.meshy.ai/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5dc7580778ccd1b81c4d7_meshyai_logo.jpg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5dc7580778ccd1b81c4d7_meshyai_logo.jpg"
+  },
+  {
+    "id": "interactive-tactical-group",
+    "name": "Interactive Tactical Group",
+    "category": "sponsor",
+    "description": "",
+    "website": "http://www.tacticalvr.com",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/6601c46cd1cf4cb239a9a1b0_logo_white_bkground%20(1).jpeg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/6601c46cd1cf4cb239a9a1b0_logo_white_bkground%20(1).jpeg"
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "category": "sponsor",
+    "description": "",
+    "website": "https://www.samsung.com/us/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5dc2cf61cc556d64308fc_samsung_electronics_logo.jpg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5dc2cf61cc556d64308fc_samsung_electronics_logo.jpg"
+  },
+  {
+    "id": "petricore-games",
+    "name": "Petricore Games",
+    "category": "sponsor",
+    "description": "",
+    "website": "https://petricoregames.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f07cfefe9a6ea5933c6d68_PetricoreInc_Square_color.png",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f07cfefe9a6ea5933c6d68_PetricoreInc_Square_color.png"
+  },
+  {
+    "id": "pico-xr",
+    "name": "Pico XR",
+    "category": "sponsor",
+    "description": "",
+    "website": "https://www.picoxr.com/global",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5db785f3e0db2cfe1caf7_picoxr_logo.jpg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5db785f3e0db2cfe1caf7_picoxr_logo.jpg"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "category": "sponsor",
+    "description": "",
+    "website": "https://about.meta.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5db1fb218ced322f1f9c4_facebook_logo.jpg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5db1fb218ced322f1f9c4_facebook_logo.jpg"
+  },
+  {
+    "id": "xr-bootcamp",
+    "name": "XR Bootcamp",
+    "category": "collaborator",
+    "description": "",
+    "website": "https://xrbootcamp.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f88411258a0ceba45beaba_xrbootcamp_logo.jpg",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f88411258a0ceba45beaba_xrbootcamp_logo.jpg"
+  },
+  {
+    "id": "creative-tech",
+    "name": "Creative.Tech",
+    "category": "collaborator",
+    "description": "",
+    "website": "http://Creative.Tech",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f71bbc1f4238a21d279d_32.png",
+    "year": 2025,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f71bbc1f4238a21d279d_32.png"
+  },
+  {
+    "id": "petricore-games",
+    "name": "Petricore Games",
+    "category": "sponsor",
+    "description": "Petricore crafts captivating software and unique products. Born in 2015 in Worcester, MA, from a deep passion for game development, we’ve since expanded our horizons, helping global clients while creating our own engaging experiences. With hundreds of projects under our belt, our true joy lies in crafting meaningful digital journeys.",
+    "website": "https://petricoregames.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f07cfefe9a6ea5933c6d68_PetricoreInc_Square_color.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f07cfefe9a6ea5933c6d68_PetricoreInc_Square_color.png"
+  },
+  {
+    "id": "serl-io",
+    "name": "Serl.io",
+    "category": "sponsor",
+    "description": "Serl.io partners with enterprises, government agencies, healthcare and learning institutions to unlock new opportunities and efficiencies with Mixed Reality - ranging from bespoke solutions to MRx, the no-code platform for interactive and collaborative A.I. enhanced Mixed Reality.",
+    "website": "https://serl.io/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b2cd55d8b95daf728860dc_Serl.io2.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b2cd55d8b95daf728860dc_Serl.io2.png"
+  },
+  {
+    "id": "deovr",
+    "name": "DeoVR",
+    "category": "sponsor",
+    "description": "DeoVR connects creators and audiences through immersive, high-quality virtual reality storytelling.",
+    "website": "https://deovr.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d96090c99fbcf6b71ec263_deoVR.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d96090c99fbcf6b71ec263_deoVR.png"
+  },
+  {
+    "id": "lemann-program-on-creativity-and-entrepreneurship",
+    "name": "Lemann Program on Creativity and Entrepreneurship",
+    "category": "sponsor",
+    "description": "The Lemann Program on Creativity and Entrepreneurship (LPCE) at Harvard empowers students to address global challenges through creativity, innovation, and entrepreneurial thinking. Through mentorship, hands-on learning, and funding opportunities, LPCE helps students transform ideas into real-world solutions with social impact.",
+    "website": "",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d96189d648c34dd4dee08d_LPCE.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d96189d648c34dd4dee08d_LPCE.png"
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "category": "sponsor",
+    "description": "MiniMax is a leading global technology company and one of the pioneers of large language models (LLMs) in Asia. Our mission is to build a world where intelligence thrives with everyone.MiniMax develops proprietary LLMs across various modalities, including a trillion-parameter MoE model, a speech model with low latency and native support for major Asian languages, and a state-of-the-art text-to-speech and text-to-video models. Experience it now at https://hailuoai.com/Leveraging these multi-modality general-purpose models, the MiniMax API Platform offers enterprises and developers secure, flexible, and reliable API services, enabling the rapid deployment of AI applications.",
+    "website": "https://www.minimax.io/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d9610a1e4a6ec9ed0059bf_MiniMax.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69d9610a1e4a6ec9ed0059bf_MiniMax.png"
+  },
+  {
+    "id": "devitjobs",
+    "name": "DevITJobs",
+    "category": "collaborator",
+    "description": "",
+    "website": "https://devitjobs.com",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b9e675fb05e4e5308d1aa6_devitus-rectangle.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b9e675fb05e4e5308d1aa6_devitus-rectangle.png"
+  },
+  {
+    "id": "creative-tech",
+    "name": "Creative.Tech",
+    "category": "collaborator",
+    "description": "",
+    "website": "http://Creative.Tech",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f71bbc1f4238a21d279d_32.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67f5f71bbc1f4238a21d279d_32.png"
+  },
+  {
+    "id": "the-generator",
+    "name": "The Generator",
+    "category": "collaborator",
+    "description": "",
+    "website": "https://www.babson.edu/thegenerator/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b75c747468f39f02d65510_Babson.png",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b75c747468f39f02d65510_Babson.png"
+  },
+  {
+    "id": "stanford-xr",
+    "name": "Stanford XR",
+    "category": "collaborator",
+    "description": "",
+    "website": "https://www.stanfordxr.org/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b75e0cdb6fe97935474df0_standford%20xr.jpg",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/69b75e0cdb6fe97935474df0_standford%20xr.jpg"
+  },
+  {
+    "id": "mit-reality-hack",
+    "name": "MIT Reality Hack",
+    "category": "collaborator",
+    "description": "",
+    "website": "https://www.mitrealityhack.com/",
+    "logoSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f08b3687cef5d2b9d20a3b_MITRealityHack-4C-Logo.svg",
+    "year": 2026,
+    "logoAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65f08b3687cef5d2b9d20a3b_MITRealityHack-4C-Logo.svg"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": "future-of-work",
+  "title": "Future of Work",
+  "description": "Future of work panel will discuss the future of work in virtual reality and its potential to revolutionize the workplace. The panelists will share how to use XR tools to prototype for human-centered creativity, foster imagination, build empathy, and create connection.",
+  "startTime": "17:00",
+  "endTime": "18:00",
+  "speakerIds": [
+    "jenna-fizel",
+    "tiange-wang",
+    "ellen-flaherty",
+    "jenny-jiang"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/future-of-work",
+  "editionYears": [
+    2023
+  ]
+}

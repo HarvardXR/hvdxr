@@ -1,0 +1,18 @@
+{
+  "id": "journey-after-school",
+  "title": "Journey After School",
+  "description": "Embark on a captivating journey post-academia with our esteemed panelists. Dhairya Dand, Principal Founder of ODD Industries and MIT Media Lab alum, boasts a portfolio of groundbreaking inventions and artistic endeavors, recognized by Forbes, WIRED UK, and Vogue. Joining him is Botao Amber Hu, Director of Reality Design Lab at Stanford and Tsinghua, pioneering speculative design and programmable cryptography. Veronica Peitong Chen, Senior Experience Designer at Adobe, integrates AI/ML into immersive multimedia experiences, while Iris Pan, Amazon Lead Designer, revolutionizes consumer engagement through emerging technologies. Explore their multidisciplinary approaches, shaping the future landscape of design, AI, and technology. Together, these exceptional individuals illuminate the path beyond academia, showcasing the boundless possibilities of creativity and innovation in the real world. Moderated by Yun Fan.",
+  "startTime": "15:50",
+  "endTime": "16:50",
+  "speakerIds": [
+    "dhairya-dand",
+    "botao-amber-hu",
+    "iris-pan",
+    "veronica-peitong-chen",
+    "yun-fan"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/journey-after-school",
+  "editionYears": [
+    2024
+  ]
+}

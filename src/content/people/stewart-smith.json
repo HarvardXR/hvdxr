@@ -1,0 +1,15 @@
+{
+  "id": "stewart-smith",
+  "name": "Stewart Smith",
+  "organization": "Unity Technologies",
+  "title": "Product Design Director, AI&ML",
+  "notableTitle": "",
+  "bio": "Stewart playfully innovates across machine learning, spatial computing, and quantum computing—one foot planted in software engineering and the other in art and design. With his MFA from Yale University, Stewart’s artwork has been exhibited at the Museum of Modern Art in New York, ZKM in Germany, the SFMOMA in San Francisco, and is in the permanent collection of the Fondation Cartier in Paris. As a coder, his work has been featured on the Google Search homepage as the Rubik’s Cube Google Doodle, as the Autocompose feature in Yahoo Mail (awarded a machine learning patent two years prior to Google’s Smart Reply feature), and as the XR hand controller toolkit for LCD Soundsystem’s “Dance Tonite” virtual reality music video. His numerous open-source personal projects span from hand pose recognition for XR interfaces, to browser-based music synthesizers, to the world’s first open-source music video for Grandaddy’s “Jed’s Other Poem.” He’s also the creator of Quantum JavaScript, a quantum circuit simulator and circuit composer that can be used to drive real quantum hardware. Stewart recently served as an Artist in Residence at Yale University’s Quantum Institute and currently leads Unity’s product design for advanced AI & ML projects. What really makes him happy is partnering with smart friends to take on the impossible—or the ridiculous.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65fe30159e6ccc6a95223259_Unknown.jpeg",
+  "socialLinks": [],
+  "eventIds": [
+    "immersive-reality"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/stewart-smith",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/65fe30159e6ccc6a95223259_Unknown.jpeg"
+}

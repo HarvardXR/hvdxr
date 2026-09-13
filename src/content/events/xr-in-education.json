@@ -1,0 +1,17 @@
+{
+  "id": "xr-in-education",
+  "title": "XR in Education",
+  "description": "Dive into the forefront of educational innovation where we explore the dynamic intersection of extended realities (XR) and transformative learning experiences. This session promises to illuminate the pathways through which XR technologies - including virtual reality (VR), augmented reality (AR), and mixed reality (MR) - are revolutionizing teaching methodologies, learner engagement, and curriculum design across various educational landscapes. Featured Talks \"Extended Realities in Language Teaching and Learning\" by Nicole Mills and Arnaud Dressen Join Nicole Mills, a distinguished Director of Language Programs at Harvard University, alongside Arnaud Dressen, the visionary founder of Wonda, as they delve into the impactful integration of XR in language education. Their talk will explore groundbreaking strategies for harnessing VR and AR to enhance language acquisition, immersion, and cultural competency, backed by their extensive research and innovative applications in the field. \"Next-Generation Immersive Learning: Upskilling, Reskilling, Transfer, and Unlearning\" by Chris Dede Chris Dede, a Senior Research Fellow at the Harvard Graduate School of Education and a trailblazer in learning technologies, will present on the transformative potential of next-generation immersive learning environments. Focusing on upskilling, reskilling, knowledge transfer, and the unlearning of outdated concepts, Dede's insights stem from his pioneering work at the intersection of AI, online education, and adult learning. Discover how these immersive experiences can foster deep, personalized learning journeys and prepare learners for the challenges of the digital economy. Moderated by Yun Fan.",
+  "startTime": "11:10",
+  "endTime": "12:10",
+  "speakerIds": [
+    "chris-dede",
+    "nicole-mills",
+    "arnaud-dressen",
+    "yun-fan"
+  ],
+  "sourceUrl": "https://harvardxr.com/events/xr-in-education",
+  "editionYears": [
+    2024
+  ]
+}

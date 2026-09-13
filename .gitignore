@@ -1,48 +1,82 @@
-# 这个仓库只分享两样东西:harvardxr.com 的站体,和记录每个资产从哪来的清单。
-# 抓取过程本身留下的一切留在本机,不进 git。
+# ============================================================
+# 原始抓取归档（site/ 与 RECON/）
+# ============================================================
+#
+# 媒体不进 git：1,083 个文件、约 650 MB，走 Cloudflare R2。
+# 文件本身留在工作区，下面的规则只是让 git 看不见它们，不删任何东西。
+#
+# 注意：这些规则锚定在 site/ 下。原仓库里写的是无锚点的 *.jpg 这类，
+# 合进来之后会连 public/ 里的应用媒体一起吃掉（例如那个 showcase mp4），
+# 所以这里改成 /site/**/ 前缀，作用范围和原来在独立仓时完全一致。
+/site/**/*.jpg
+/site/**/*.jpeg
+/site/**/*.png
+/site/**/*.gif
+/site/**/*.webp
+/site/**/*.avif
+/site/**/*.ico
+/site/**/*.mp4
+/site/**/*.webm
+/site/**/*.mp3
+/site/**/*.pdf
 
-# --- 媒体不进 git ---
-#
-# 1,083 个文件、约 650 MB,走 Cloudflare R2。
-# 文件本身还在磁盘上。下面这些规则只是让 git 看不见它们,不删任何东西,
-# 所以传 R2 的时候直接从工作区拿就行。
-#
-# 为什么敢按扩展名排除:全树 1,737 个文件里没有一个是无扩展名的(查过),
-# 抓回来的资产全部带扩展名,不存在「CDN 发了一张没后缀的图」这种漏网情况。
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.webp
-*.avif
-*.ico
-*.mp4
-*.webm
-*.mp3
-*.pdf
+# 两个刻意的例外，留在 git 里（所以上面没列它们）：
+#   字体 otf/woff2，24 个文件 2.1 MB —— 没有字体，clone 下来渲染成 Times 和
+#   Arial，看着像「坏了」而不是像「少了图」。
+#   SVG，16 个文件 60 KB —— 矢量、是文本，而且是站点的 UI 图标。
 
-# 两个刻意的例外,留在 git 里(所以上面没列它们):
-#   字体 otf/woff2,24 个文件 2.1 MB —— 没有字体,clone 下来渲染成 Times 和 Arial,
-#   看着像「坏了」而不是像「少了图」。
-#   SVG,16 个文件 60 KB —— 矢量、是文本,而且是站点的 UI 图标。
-
-# --- 抓取过程的记录,留在本机 ---
-#
-# RECON/ 是抓取时的工作目录:日志、截图、原始字节副本、验证报告。里面带抓取那台
-# 机器的本机路径和浏览器标识,而且对着手改站的人没有用。
-# 其中唯一有长期价值的 mirror-manifest.json 已经清洗过、放在 provenance/ 里。
-#
-# 根上那几个 md 和配置是抓取工具链的产物与输入。那套工具不在这个仓里,所以它们
-# 留下来只会让人照着敲一串跑不通的命令。
+# 抓取过程的记录，留在本机。
+# RECON/ 是抓取时的工作目录：日志、截图、原始字节副本、验证报告。里面带抓取
+# 那台机器的本机路径和浏览器标识。其中唯一有长期价值的 mirror-manifest.json
+# 已经清洗过、放在 provenance/ 里。
 /RECON/
 /NOTES.md
 /CLONE_REPORT.md
 /site.config.json
 /extra-seeds.txt
 
-# site/ 的重复归档,493 MB。没拷进来,这行是防手滑。
-site.zip
-
-node_modules/
-.DS_Store
+# site/ 的重复归档，493 MB。没拷进来，这行是防手滑。
+/site.zip
 Thumbs.db
+
+# ============================================================
+# hvdxr 应用
+# ============================================================
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local environment
+.env*
+
+# deployment and generated files
+.vercel
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/

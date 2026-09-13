@@ -1,0 +1,19 @@
+{
+  "id": "dilmer-valecillos",
+  "name": "Dilmer Valecillos",
+  "organization": "Meta",
+  "title": "Developer Advocate",
+  "notableTitle": "",
+  "bio": "Over the past decade, Dilmer has worked in roles ranging from Full Stack Software Engineer to XR Developer, creating AR/VR tools and training simulations. He later became an XR consultant through his platform, \"Learn XR,\" helping companies and developers adopt XR tools and SDKs. Now a Developer Advocate at Meta, he focuses on empowering developers by sharing insights and best practices. Passionate about XR, he has created 950+ development videos on YouTube and shares educational content on X, Instagram, and Threads. His mission is to make XR development more accessible and inspire the next generation of creators.",
+  "portraitSource": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67ebea6accb546724ecb004c_Dilmer.png",
+  "socialLinks": [
+    "https://www.linkedin.com/in/dilmerv/",
+    "https://www.instagram.com/dilmerv/?hl=en",
+    "https://x.com/dilmerv?lang=en"
+  ],
+  "eventIds": [
+    "creating-worlds-with-genai-and-developing-for-mr-on-horizon"
+  ],
+  "sourceUrl": "https://harvardxr.com/people/dilmer-valecillos",
+  "portraitAsset": "https://cdn.prod.website-files.com/63def260d2a0ebe686e56895/67ebea6accb546724ecb004c_Dilmer.png"
+}
