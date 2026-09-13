@@ -42,7 +42,7 @@ button { font: inherit; }
   border-bottom-color: #472cca;
   background: linear-gradient(to top, rgb(71 44 202 / 10%), transparent 45%);
 }
-.header-secondary p { margin: 0; color: #67626e; }
+.header-secondary p { display: flex; align-items: center; min-height: 46px; margin: 0; color: #67626e; }
 .header-secondary p span { margin: 0 6px; }
 .mobile-menu-toggle { display: none; }
 .mobile-menu { display: none; }
