@@ -1,0 +1,17 @@
+# 仓库自己写的文件:正常 LF。
+* text=auto eol=lf
+
+# site/ 是抓回来的原始字节,价值就在于「服务器当时发的是什么,这里就是什么」,
+# 每个字节的 sha256 记在 provenance/mirror-manifest.json 里。
+#
+# 常见的 core.autocrlf=true 下,不写这行,checkout 会把 234 个 HTML 连同 css/js
+# 全部改成 CRLF,校验记录当场失效 —— 而且是悄悄失效,站照样能跑。
+# 所以:不做任何换行转换。
+site/** -text
+
+# 抓回来的二进制:不转换、不尝试 diff。
+site/**/*.otf   binary
+site/**/*.woff2 binary
+
+# 生成的清单,1,134 个资产一条一条列。diff 它是噪音。
+provenance/mirror-manifest.json -diff
