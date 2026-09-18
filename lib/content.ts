@@ -10,6 +10,9 @@ export type Organization = (typeof organizations)[number];
 export const edition2026 = editions2026;
 
 export function archiveAsset(path: string) {
+  if (process.env.NODE_ENV === 'development' && path.startsWith('https://cdn.prod.website-files.com/')) {
+    return path.replace('https://', '/_ext/');
+  }
   return path.startsWith('http')
     ? path
     : path.replace('archive/original-media/', '/media/archive/');

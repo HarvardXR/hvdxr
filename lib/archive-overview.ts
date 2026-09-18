@@ -32,7 +32,11 @@ const copy: Record<number, { intro: string; focus: string; highlights: string[] 
   },
 };
 const escape = (value: string) => value.replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]!);
-const asset = (value: string) => escape(value.startsWith('http') ? value : value.replace('archive/original-media/', '/media/archive/'));
+const asset = (value: string) => escape(
+  process.env.NODE_ENV === 'development' && value.startsWith('https://cdn.prod.website-files.com/')
+    ? value.replace('https://', '/_ext/')
+    : value.startsWith('http') ? value : value.replace('archive/original-media/', '/media/archive/'),
+);
 const link = (href: string, label: string, className = 'archive-link') => `<a class="${className}" href="${escape(href)}">${escape(label)} <span aria-hidden="true">↗</span></a>`;
 
 export function archiveOverview(path: string): string | undefined {

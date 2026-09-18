@@ -62,6 +62,7 @@ Thumbs.db
 
 # misc
 .DS_Store
+._*
 *.pem
 
 # debug
@@ -80,3 +81,4 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/.openai/

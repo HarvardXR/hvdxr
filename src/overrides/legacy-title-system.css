@@ -1,0 +1,42 @@
+/* Shared treatment for the legacy page-title system only. */
+.page-heading-wrap {
+  max-width: 780px;
+}
+
+.huge-heading {
+  max-width: 14ch;
+  margin-block: 0;
+  font-family: Inter, Arial, Helvetica, sans-serif !important;
+  font-size: clamp(3.25rem, 7.2vw, 8rem) !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  letter-spacing: -.065em !important;
+  line-height: .88 !important;
+  text-transform: uppercase;
+}
+
+.huge-heading strong {
+  font-weight: 700;
+}
+
+.huge-heading > .font-color-accent {
+  display: block;
+  max-width: 18ch;
+  margin-top: .28em;
+  font-size: .38em;
+  font-weight: 350;
+  letter-spacing: -.02em;
+  line-height: 1.08;
+}
+
+@media (max-width: 700px) {
+  .page-heading-wrap {
+    max-width: 100%;
+  }
+
+  .huge-heading {
+    max-width: 100%;
+    font-size: clamp(2.6rem, 14vw, 4.6rem) !important;
+    line-height: .92 !important;
+  }
+}
